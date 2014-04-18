@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+super+u"], "command": "upload_upyun"},
+]
